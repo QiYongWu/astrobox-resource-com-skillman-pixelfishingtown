@@ -1,0 +1,147 @@
+{
+  "item": {
+    "id": "com.skillman.pixelfishingtown",
+    "restype": "quick_app",
+    "name": "像素渔镇",
+    "description": "来像素渔镇，享受休闲治愈时光~\n钓鱼、养鱼、养宠物。3大钓鱼地图，水域、蜂蜜池、岩浆。钓鱼玩法参考泰拉瑞亚钓鱼。76种鱼。33种日常生活中常见的宠物，包括拉布拉多，边牧，橘猫，熊猫等。\n11种炫酷钓竿。43种饵料，34种食物等超丰富内容。\n可以带上宠物去钓鱼，照顾好宠物，宠物会提升你的渔力，助你钓获更高品质的鱼。\n游戏时间使用现实生活中的时间，更贴近生活。",
+    "preview": [
+      "media/仓库-宠物.png",
+      "media/仓库单独出售.png",
+      "media/仓库-批量出售.png",
+      "media/仓库-全部.png",
+      "media/宠物店.png",
+      "media/宠物-橘猫.png",
+      "media/宠物屋-熊猫.png",
+      "media/地图选择1.png",
+      "media/地图选择2.png",
+      "media/地图选择3.png",
+      "media/钓鱼收杆.png",
+      "media/钓鱼收获弹窗.png",
+      "media/钓鱼页.png",
+      "media/海报(1.0.0).png",
+      "media/商铺.png",
+      "media/收鱼弹窗.png",
+      "media/图鉴.png",
+      "media/向导.png",
+      "media/选择食物.png",
+      "media/咬钩.png",
+      "media/鱼粮管理.png",
+      "media/渔场.png",
+      "media/渔场信息.png",
+      "media/渔场鱼详情弹窗.png",
+      "media/渔具店.png",
+      "media/杂货铺.png",
+      "media/种鱼弹窗.png",
+      "media/主页.png",
+      "media/装备台.png",
+      "media/宠物.png",
+      "media/钓鱼.png",
+      "media/仓库.png",
+      "media/宠物屋.png",
+      "media/钓具店.png",
+      "media/购买钓竿.png",
+      "media/选择地图3.png",
+      "media/渔场养护鱼.png",
+      "media/渔场鱼信息弹窗.png",
+      "media/分组_20.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/分组_4.png",
+    "author": [
+      {
+        "name": "SkillMan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电商品链接",
+      "url": "https://ifdian.net/item/58aacade3f9911f1b3705254001e7c00",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇红米56.rpk",
+      "versionCode": 2
+    },
+    "xmrw5xring": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇红米56.rpk",
+      "versionCode": 2
+    },
+    "xmrw6": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇红米56.rpk",
+      "versionCode": 2
+    },
+    "xmb10": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇米10米11.rpk",
+      "versionCode": 2
+    },
+    "xmb10nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇米10米11.rpk",
+      "versionCode": 2
+    },
+    "xmb10p": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇9Pro10Pro.rpk",
+      "versionCode": 2
+    },
+    "xmb11": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇米10米11.rpk",
+      "versionCode": 2
+    },
+    "xmb11nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇米10米11.rpk",
+      "versionCode": 2
+    },
+    "xmb9": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇米9.rpk",
+      "versionCode": 2
+    },
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇9Pro10Pro.rpk",
+      "versionCode": 2
+    },
+    "xmws3": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇S345.rpk",
+      "versionCode": 2
+    },
+    "xmws4xring": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇S345.rpk",
+      "versionCode": 2
+    },
+    "xmws441": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇S345.rpk",
+      "versionCode": 2
+    },
+    "xmws4": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇S345.rpk",
+      "versionCode": 2
+    },
+    "xmws541": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇S345.rpk",
+      "versionCode": 2
+    },
+    "xmws5": {
+      "version": "1.1.0",
+      "file_name": "downloads/像素渔镇S345.rpk",
+      "versionCode": 2
+    }
+  },
+  "ext": {}
+}
